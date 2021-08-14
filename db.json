@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": "1640662651253244",
+      "name": "Bắp Cải",
+      "price": "65000",
+      "image": "http://mauweb.monamedia.net/vuonrau/wp-content/uploads/2019/05/p5.jpg",
+      "status": "1",
+      "categoryId": "360545224626511"
+    },
+    {
+      "id": "164415420056603245",
+      "name": "Cà Chua",
+      "price": "76000",
+      "image": "http://mauweb.monamedia.net/vuonrau/wp-content/uploads/2019/05/p3.jpg",
+      "status": "1",
+      "categoryId": "360545224626511"
+    },
+    {
+      "id": "220400532503015",
+      "name": "Chanh Không Hạt",
+      "price": "45000",
+      "image": "http://mauweb.monamedia.net/vuonrau/wp-content/uploads/2019/05/p12.jpg",
+      "status": "1",
+      "categoryId": "3133002150316"
+    },
+    {
+      "id": "0606644514662355",
+      "name": "Bắp Mĩ",
+      "price": "65000",
+      "image": "http://mauweb.monamedia.net/vuonrau/wp-content/uploads/2019/05/p2.jpg",
+      "status": "1",
+      "categoryId": "360545224626511"
+    },
+    {
+      "id": "6002164536532205",
+      "name": "Ớt Chuông Đà Lạt",
+      "price": "55000",
+      "image": "http://mauweb.monamedia.net/vuonrau/wp-content/uploads/2019/05/p10.jpg",
+      "status": "1",
+      "categoryId": "360545224626511"
+    }
+  ],
+  "categories": [
+    {
+      "id": 621142250042053100,
+      "name": "TRÁI CÂY",
+      "image": "http://mauweb.monamedia.net/vuonrau/wp-content/uploads/2019/05/p11-100x100-1.jpg"
+    },
+    {
+      "id": 2520242045002606,
+      "name": "HẢI SẢN",
+      "image": "http://mauweb.monamedia.net/vuonrau/wp-content/uploads/2019/05/4-zalm-loin-white-100x100.png"
+    },
+    {
+      "id": 3133002150316,
+      "name": "ĐỒ UỐNG",
+      "image": "http://mauweb.monamedia.net/vuonrau/wp-content/uploads/2019/05/p12-100x100-1.jpg"
+    },
+    {
+      "id": 360545224626511,
+      "name": "RAU CỦ",
+      "image": "http://mauweb.monamedia.net/vuonrau/wp-content/uploads/2019/05/p9-100x100-1.jpg"
+    }
+  ],
+  "users": [
+    {
+      "email": "datlt2306@gmail.com",
+      "password": "$2a$10$InEMpKcLP8R7.4osg6EKjOtZB.bD.atQS2ceQsGDyGhuMh0AzZ/3C",
+      "username": "datlt2306",
+      "id": 1
+    },
+    {
+      "email": "nhungntph12785@fpt.edu.vn",
+      "password": "$2a$10$OYrrTnYfJHZ48EagpWP85ufIrSjiPna0EqC4F0Ik7QXbcWi9GutWK",
+      "username": "Nhung",
+      "id": 2
+    },
+    {
+      "email": "nhungntph5212785@fpt.edu.vn",
+      "password": "$2a$10$9VQ8usOf38fRHFdoUp960.OWFqt1ofoFB0E8YwiOvfmJeZvDDVg.i",
+      "username": "Nhung Nhung",
+      "id": 3
+    },
+    {
+      "email": "nhungntph127855@fpt.edu.vn",
+      "password": "$2a$10$KnpIfHvPseAP8cbLoa.SVuxLZ.M8b3H4p5kW75kX6RIjZ/xZZ39RO",
+      "username": "nt nhung",
+      "id": 4
+    },
+    {
+      "email": "nhungntph127855555@fpt.edu.vn",
+      "password": "$2a$10$wM.2W3YQanMRcur0f08VCOaCPQkS2awnUFKIoT4EePhadlkC2qFgm",
+      "username": "nt nhung",
+      "id": 5
+    },
+    {
+      "email": "nhungntph112785@fpt.edu.vn",
+      "password": "$2a$10$VW.EZR35xznxzeHUTI6I0OAQtrzt6/ehGbEa8B20DdmLj.4qJzAY2",
+      "username": "nt nhung",
+      "id": 6
+    },
+    {
+      "email": "nnhungntph12785@fpt.edu.vn",
+      "password": "$2a$10$CSp9YJhvHwhXk0nLpncHte9gDVwRvj.fLfLGrIO1SRxi0iAHiRhda",
+      "username": "nt nhung",
+      "id": 7
+    },
+    {
+      "email": "nnnhungntph12785@fpt.edu.vn",
+      "password": "$2a$10$nrix6dt4qa5YiPKnxCI3EuMOBM9fUGxqD/bv7NkdID3TRTf6G2EUC",
+      "username": "ph12785",
+      "id": 8
+    }
+  ]
+}
